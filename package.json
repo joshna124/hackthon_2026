@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "A production-grade prototype that sequences restaurant kitchen tickets using **priority queues (`heapq`)**, **greedy job sequencing**, and a fully transparent **decision log**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

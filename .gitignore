@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# NOTE: static/ is intentionally NOT ignored - it holds the React build
+# that Flask serves, so `python app.py` works without installing Node.

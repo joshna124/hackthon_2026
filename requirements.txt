@@ -1,0 +1,10 @@
+# Restaurant Kitchen Order Scheduler - Python dependencies
+# -------------------------------------------------------
+# The scheduling engine itself (heapq priority queue, greedy job sequencing,
+# Apparent Tardiness Cost scoring) uses ONLY the Python standard library,
+# so the backend is intentionally tiny.
+#
+# Install:  pip install -r requirements.txt
+
+Flask>=3.0.0
+flask-cors>=4.0.0
